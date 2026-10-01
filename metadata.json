@@ -1,0 +1,6 @@
+{
+  "name": "Aasha - Voice AI Companion for Rural Women",
+  "description": "An ultra-empathetic, patient, and voice-native AI companion empowering rural women to access essential government schemes independently.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
